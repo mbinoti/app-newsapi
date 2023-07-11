@@ -14,7 +14,7 @@ Funcionalidades principais do app.
 * Pesquisa por palavra chave.
 * Detalhes da noticia com link para o site.
 
-* Projeto original feito na udemy, alterei para usar o flutter nativo com valueNotifierBuilder para gerenciamento de estado.
+* Feito curso na udemy, alterações para usar o flutter nativo para gerenciamento de estado.
 
 ## pacotes utilizados
 
