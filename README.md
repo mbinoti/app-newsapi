@@ -1,8 +1,8 @@
-## Listar noticias da api newsapi.org.
+## api newsapi.org.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/6609513/245451067-82289584-8421-4ecd-8929-3c8391036c9f.jpg" width="350">
-  <img src="https://user-images.githubusercontent.com/6609513/245451076-2c86b749-ecf6-4582-8b45-1ac99942619a.jpg" width="350">
+  <img src="https://user-images.githubusercontent.com/6609513/252620512-b8b49424-5627-4f33-bfa0-30d50489a3b3.jpg" width="350">
+  <img src="https://user-images.githubusercontent.com/6609513/252620525-5a6bb150-58b6-44bb-a89c-ead6e583999d.jpg" width="350">
 
 </p>
 
