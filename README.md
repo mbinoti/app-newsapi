@@ -1,9 +1,4 @@
-
-## Introdução
-
-App desenvolvido em Flutter para listar noticias da api newsapi.org.
-
-** Disponível para iOS e Android.**
+## Listar noticias da api newsapi.org.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/6609513/245451067-82289584-8421-4ecd-8929-3c8391036c9f.jpg" width="350">
@@ -18,3 +13,10 @@ Funcionalidades principais do app.
 * Lista de noticias da api newsapi.org
 * Pesquisa por palavra chave.
 * Detalhes da noticia com link para o site.
+
+* Projeto original feito na udemy, alterei para usar o flutter nativo com valueNotifierBuilder para gerenciamento de estado.
+
+## pacotes utilizados
+
+* http
+
